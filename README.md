@@ -27,7 +27,6 @@ Currently, my focus is on **Power BI**, **SQL**, **Data Analytics**, and strengt
 - 📚 Learning Repositories documenting my progress
 - 🧠 Research & Academic Projects
 - 💻 Programming Projects
-- 🔍 Data Structures & Algorithms Practice
 
 ---
 
