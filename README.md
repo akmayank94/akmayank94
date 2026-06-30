@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
 
 <h3 align="center">
-Computer Science Undergraduate | Data Analytics | Machine Learning | Business Intelligence
+Computer Science Undergraduate | Data Analytics | Machine Learning | Artificial Intelligence
 </h3>
 
 <p align="center">
@@ -12,15 +12,15 @@ I enjoy learning by building real-world projects, solving problems with data, an
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science undergraduate** with a strong interest in **Data Analytics, Machine Learning, Artificial Intelligence, and Business Intelligence**.
+I'm a Computer Science undergraduate with a strong academic foundation in **Machine Learning, Deep Learning, Artificial Intelligence, and Core Computer Science**.
 
-I believe that the best way to learn is through practical implementation. This GitHub serves as my learning journal where I document projects, experiments, and the skills I develop along the way.
+My current focus is expanding into **Data Analytics** and **Business Intelligence**, where I'm building practical projects using **Power BI**, **SQL**, and **Data Visualization**.
 
-Currently, my focus is on **Power BI**, **SQL**, **Data Analytics**, and strengthening my **Data Structures & Algorithms** through consistent practice.
+I believe the best way to learn is by building real-world projects, documenting my progress publicly, and continuously improving through practice.
 
 ---
 
-## 📌 What You'll Find Here
+## 🚀 What You'll Find Here
 
 - 📊 Data Analytics & Business Intelligence Projects
 - 🤖 Machine Learning & Deep Learning Implementations
@@ -30,11 +30,11 @@ Currently, my focus is on **Power BI**, **SQL**, **Data Analytics**, and strengt
 
 ---
 
-## 🌱 Currently Learning
+## 📚 Currently Learning
 
 - 📊 Microsoft Power BI
 - ⚡ DAX
-- 🧹 Power Query & ETL
+- 🧹 Power Query / ETL
 - 📈 Advanced SQL
 - 📉 Dashboard Design
 - 💡 Advanced Data Structures & Algorithms
@@ -59,20 +59,17 @@ Currently, my focus is on **Power BI**, **SQL**, **Data Analytics**, and strengt
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power_Query-yellow?style=for-the-badge)
-![ETL](https://img.shields.io/badge/ETL-blue?style=for-the-badge)
 ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-success?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-blueviolet?style=for-the-badge)
 
 ---
 
-### 🤖 🤖 AI & Machine Learning
+### 🤖 AI & Machine Learning
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge)
 ![Neural Networks](https://img.shields.io/badge/Neural_Networks-purple?style=for-the-badge)
-![CNN](https://img.shields.io/badge/CNN-blueviolet?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-0A66C2?style=for-the-badge)
 ---
 
 ### 📚 Libraries
@@ -91,28 +88,33 @@ Currently, my focus is on **Power BI**, **SQL**, **Data Analytics**, and strengt
 
 ---
 
-### 📖 Computer Science Fundamentals
+### 💻 Core Computer Science
 
 - Data Structures & Algorithms
 - Object-Oriented Programming
-- Database Management Systems (DBMS)
+- Computer System Architecture
+- Database Management Systems
 - Operating Systems
 - Computer Networks
+- Theory of Computation
+- Compiler Design
 - Software Engineering
 - Research Methodology
 
 ---
 
-## 🚀 Current Focus
+## 🔬 Research
 
-I'm actively building projects in:
+- Research Methodology
+- Academic Research
+- Literature Review
+- Deepfake Detection Research
 
-- 📊 Power BI & Business Intelligence
-- 📈 SQL & Data Analytics
-- 🤖 Machine Learning
-- 💻 Data Structures & Algorithms
+## 🔐 Security
 
-The goal is to continuously build real-world projects and improve them over time while documenting everything on GitHub.
+- Cyber Security
+- Cyber Forensics
+- Data Privacy
 
 ---
 
@@ -125,10 +127,6 @@ Rather than only studying concepts, I prefer learning by building projects, docu
 ---
 
 ## 📈 GitHub Stats
-
-![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akmayank94&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akmayank94&layout=compact&theme=github_dark&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=akmayank94&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
