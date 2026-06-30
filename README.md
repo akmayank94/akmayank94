@@ -66,7 +66,7 @@ Currently, my focus is on **Power BI**, **SQL**, **Data Analytics**, and strengt
 
 ---
 
-### 🤖 Machine Learning
+### 🤖 🤖 AI & Machine Learning
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge)
@@ -81,6 +81,7 @@ Currently, my focus is on **Power BI**, **SQL**, **Data Analytics**, and strengt
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
