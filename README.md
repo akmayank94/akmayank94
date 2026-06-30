@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
 
 <h3 align="center">
-Computer Science Undergraduate | Aspiring Data Analyst | Machine Learning Enthusiast
+Computer Science Undergraduate | Data Analytics | Machine Learning | Business Intelligence
 </h3>
 
 <p align="center">
@@ -141,7 +141,7 @@ Rather than only studying concepts, I prefer learning by building projects, docu
 - 🤖 Build Machine Learning Projects
 - 📚 Solve 300+ DSA Problems
 - 📂 Build a strong Data Analytics Portfolio
-- 💼 Secure a Data Analyst / Machine Learning Internship
+- 💼 Secure a Data Analyst / Data Scientist Job Role
 
 ---
 
